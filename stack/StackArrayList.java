@@ -7,6 +7,7 @@ public  class StackArrayList {
             return list.size()==0;
         }
         //push
+    
         public static void push(int data){
             list.add(data);
 
